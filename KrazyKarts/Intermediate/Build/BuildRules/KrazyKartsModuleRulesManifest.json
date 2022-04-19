@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\kevin\\dev\\UnrealProjects\\KrazyKarts\\KrazyKarts\\Source\\KrazyKarts\\KrazyKarts.Build.cs",
+		"C:\\Users\\kevin\\dev\\UnrealProjects\\KrazyKarts\\KrazyKarts\\Source\\KrazyKarts.Target.cs",
+		"C:\\Users\\kevin\\dev\\UnrealProjects\\KrazyKarts\\KrazyKarts\\Source\\KrazyKartsEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

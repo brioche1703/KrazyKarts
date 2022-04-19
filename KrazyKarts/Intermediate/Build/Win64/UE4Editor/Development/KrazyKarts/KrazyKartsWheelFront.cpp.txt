@@ -1,0 +1,5 @@
+C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Development\KrazyKarts\Definitions.KrazyKarts.h
+C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Source\KrazyKarts\KrazyKartsWheelFront.h
+D:\Games\Origin\UE_4.27\Engine\Plugins\Runtime\PhysXVehicles\Source\PhysXVehicles\Public\VehicleWheel.h
+D:\Games\Origin\UE_4.27\Engine\Plugins\Runtime\PhysXVehicles\Intermediate\Build\Win64\UE4Editor\Inc\PhysXVehicles\VehicleWheel.generated.h
+C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Inc\KrazyKarts\KrazyKartsWheelFront.generated.h

@@ -1,0 +1,10 @@
+C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Development\KrazyKarts\Definitions.KrazyKarts.h
+D:\Games\Origin\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Games\Origin\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Source\KrazyKarts/KrazyKartsHud.h
+D:\Games\Origin\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+D:\Games\Origin\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+D:\Games\Origin\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+D:\Games\Origin\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+D:\Games\Origin\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Inc\KrazyKarts\KrazyKartsHud.generated.h
