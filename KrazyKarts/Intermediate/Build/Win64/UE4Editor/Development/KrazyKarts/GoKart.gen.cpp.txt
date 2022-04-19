@@ -1,0 +1,5 @@
+C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Development\KrazyKarts\Definitions.KrazyKarts.h
+D:\Games\Origin\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Games\Origin\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Source\KrazyKarts/GoKart.h
+C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Inc\KrazyKarts\GoKart.generated.h

@@ -1,0 +1,18 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\kevin\dev\UnrealProjects\KrazyKarts).
+  Parsing headers for KrazyKartsEditor
+    Running UnrealHeaderTool "C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\KrazyKarts.uproject" "C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Intermediate\Build\Win64\KrazyKartsEditor\Development\KrazyKartsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\kevin\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for KrazyKartsEditor in 13.6934941 seconds
+  Building KrazyKartsEditor...
+  Using Visual Studio 2022 14.31.31104 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 6 actions with 12 processes...
+    [1/6] KrazyKarts.init.gen.cpp
+    [2/6] GoKart.cpp
+    [3/6] GoKart.gen.cpp
+    [4/6] UE4Editor-KrazyKarts-0001.lib
+       Creating library C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Development\KrazyKarts\UE4Editor-KrazyKarts-0001.lib and object C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Development\KrazyKarts\UE4Editor-KrazyKarts-0001.exp
+    [5/6] UE4Editor-KrazyKarts-0001.dll
+       Creating library C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Development\KrazyKarts\UE4Editor-KrazyKarts-0001.suppressed.lib and object C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Development\KrazyKarts\UE4Editor-KrazyKarts-0001.suppressed.exp
+    [6/6] KrazyKartsEditor.target
+  Total time in Parallel executor: 5.59 seconds
+  Total execution time: 21.26 seconds
