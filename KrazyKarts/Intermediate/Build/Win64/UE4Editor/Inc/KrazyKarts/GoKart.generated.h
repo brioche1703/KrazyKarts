@@ -59,7 +59,10 @@ public: \
 
 
 #define KrazyKarts_Source_KrazyKarts_GoKart_h_12_PRIVATE_PROPERTY_OFFSET \
-	FORCEINLINE static uint32 __PPO__Velocity() { return STRUCT_OFFSET(AGoKart, Velocity); }
+	FORCEINLINE static uint32 __PPO__Mass() { return STRUCT_OFFSET(AGoKart, Mass); } \
+	FORCEINLINE static uint32 __PPO__MaxDrivingForce() { return STRUCT_OFFSET(AGoKart, MaxDrivingForce); } \
+	FORCEINLINE static uint32 __PPO__MaxDegreesPerSecond() { return STRUCT_OFFSET(AGoKart, MaxDegreesPerSecond); } \
+	FORCEINLINE static uint32 __PPO__DragCoefficient() { return STRUCT_OFFSET(AGoKart, DragCoefficient); }
 
 
 #define KrazyKarts_Source_KrazyKarts_GoKart_h_9_PROLOG

@@ -19,8 +19,6 @@ protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
-	void MoveForward();
-
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
@@ -30,9 +28,27 @@ public:
 
 private:
 	void MoveForward(float Value);
+	void MoveRight(float Value);
+	void UpdateLocationFromVelocity(float DeltaTime);
+	void ApplyRotation(float DeltaTime);
+	FVector GetAirResistance();
 
-protected:
+private:
 	UPROPERTY(EditAnywhere)
+	float Mass = 1000.0f;
+
+	UPROPERTY(EditAnywhere)
+	float MaxDrivingForce = 10000.0f;
+	UPROPERTY(EditAnywhere)
+	float MaxDegreesPerSecond = 90.0f;
+	UPROPERTY(EditAnywhere)
+	float DragCoefficient = 16.0f;
+
 	FVector Velocity;
+	FVector AirResistance;
+
+	float Throttle;
+	float SteeringThrow;
 
 };
+
