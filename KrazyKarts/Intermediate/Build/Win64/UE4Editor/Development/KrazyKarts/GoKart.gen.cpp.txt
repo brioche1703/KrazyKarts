@@ -2,4 +2,8 @@ C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Intermediate\Build\Win64
 D:\Games\Origin\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 D:\Games\Origin\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
 C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Source\KrazyKarts/GoKart.h
+C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Source\KrazyKarts\GoKartMovementComponent.h
+C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Inc\KrazyKarts\GoKartMovementComponent.generated.h
+C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Source\KrazyKarts\GoKartMovementReplicator.h
+C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Inc\KrazyKarts\GoKartMovementReplicator.generated.h
 C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Inc\KrazyKarts\GoKart.generated.h

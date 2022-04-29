@@ -1,3 +1,15 @@
 C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Development\KrazyKarts\Definitions.KrazyKarts.h
 C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Source\KrazyKarts\GoKart.h
+C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Source\KrazyKarts\GoKartMovementComponent.h
+C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Inc\KrazyKarts\GoKartMovementComponent.generated.h
+C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Source\KrazyKarts\GoKartMovementReplicator.h
+C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Inc\KrazyKarts\GoKartMovementReplicator.generated.h
 C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Inc\KrazyKarts\GoKart.generated.h
+D:\Games\Origin\UE_4.27\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
+D:\Games\Origin\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameStateBase.h
+D:\Games\Origin\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Games\Origin\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Games\Origin\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Games\Origin\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Games\Origin\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameStateBase.generated.h
+D:\Games\Origin\UE_4.27\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h

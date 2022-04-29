@@ -3,8 +3,11 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "GoKartMovementComponent.h"
+#include "GoKartMovementReplicator.h"
 #include "GameFramework/Pawn.h"
 #include "GoKart.generated.h"
+
 
 UCLASS()
 class KRAZYKARTS_API AGoKart : public APawn
@@ -27,28 +30,14 @@ public:
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
 private:
+
 	void MoveForward(float Value);
 	void MoveRight(float Value);
-	void UpdateLocationFromVelocity(float DeltaTime);
-	void ApplyRotation(float DeltaTime);
-	FVector GetAirResistance();
 
-private:
-	UPROPERTY(EditAnywhere)
-	float Mass = 1000.0f;
+	UPROPERTY(VisibleAnywhere)
+	UGoKartMovementComponent* MovementComponent;
 
-	UPROPERTY(EditAnywhere)
-	float MaxDrivingForce = 10000.0f;
-	UPROPERTY(EditAnywhere)
-	float MaxDegreesPerSecond = 90.0f;
-	UPROPERTY(EditAnywhere)
-	float DragCoefficient = 16.0f;
-
-	FVector Velocity;
-	FVector AirResistance;
-
-	float Throttle;
-	float SteeringThrow;
-
+	UPROPERTY(VisibleAnywhere)
+	UGoKartMovementReplicator* MovementReplicator;
 };
 

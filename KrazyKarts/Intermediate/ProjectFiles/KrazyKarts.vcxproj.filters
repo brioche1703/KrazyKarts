@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\KrazyKarts.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{8C391171-D6D1-4695-933B-DE5EA22BD4A7}</UniqueIdentifier>
+      <UniqueIdentifier>{C98A1A14-4DBE-460B-B097-2D2FC1B9DB55}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\KrazyKarts.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,9 @@
     <None Include="..\..\Source\KrazyKartsEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{D5E6363E-2C50-4FEE-AAED-0C29FA0A4702}</UniqueIdentifier>
+      <UniqueIdentifier>{9C4D3FBC-52A1-471D-8E44-075EF368593A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,12 +31,24 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\KrazyKarts">
-      <UniqueIdentifier>{404F8887-16F6-492D-801E-148E7E48CD89}</UniqueIdentifier>
+      <UniqueIdentifier>{8271FD11-76AB-4E49-A992-2BBBFBC32FE1}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\KrazyKarts\GoKart.cpp">
       <Filter>Source\KrazyKarts</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\KrazyKarts\GoKart.h">
+      <Filter>Source\KrazyKarts</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\KrazyKarts\GoKartMovementComponent.cpp">
+      <Filter>Source\KrazyKarts</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\KrazyKarts\GoKartMovementComponent.h">
+      <Filter>Source\KrazyKarts</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\KrazyKarts\GoKartMovementReplicator.cpp">
+      <Filter>Source\KrazyKarts</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\KrazyKarts\GoKartMovementReplicator.h">
       <Filter>Source\KrazyKarts</Filter>
     </ClInclude>
     <None Include="..\..\Source\KrazyKarts\KrazyKarts.Build.cs">

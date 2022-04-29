@@ -2,11 +2,11 @@
   Building KrazyKartsEditor...
   Using Visual Studio 2022 14.31.31104 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   Building 4 actions with 12 processes...
-    [1/4] GoKart.cpp
-    [2/4] UE4Editor-KrazyKarts-0030.lib
-       Creating library C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Development\KrazyKarts\UE4Editor-KrazyKarts-0030.lib and object C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Development\KrazyKarts\UE4Editor-KrazyKarts-0030.exp
-    [3/4] UE4Editor-KrazyKarts-0030.dll
-       Creating library C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Development\KrazyKarts\UE4Editor-KrazyKarts-0030.suppressed.lib and object C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Development\KrazyKarts\UE4Editor-KrazyKarts-0030.suppressed.exp
+    [1/4] GoKartMovementReplicator.cpp
+    [2/4] UE4Editor-KrazyKarts-0009.lib
+       Creating library C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Development\KrazyKarts\UE4Editor-KrazyKarts-0009.lib and object C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Development\KrazyKarts\UE4Editor-KrazyKarts-0009.exp
+    [3/4] UE4Editor-KrazyKarts-0009.dll
+       Creating library C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Development\KrazyKarts\UE4Editor-KrazyKarts-0009.suppressed.lib and object C:\Users\kevin\dev\UnrealProjects\KrazyKarts\KrazyKarts\Intermediate\Build\Win64\UE4Editor\Development\KrazyKarts\UE4Editor-KrazyKarts-0009.suppressed.exp
     [4/4] KrazyKartsEditor.target
-  Total time in Parallel executor: 1.77 seconds
-  Total execution time: 3.51 seconds
+  Total time in Parallel executor: 15.06 seconds
+  Total execution time: 16.70 seconds
