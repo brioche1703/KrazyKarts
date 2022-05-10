@@ -63,7 +63,7 @@ void EmptyLinkFunctionForGeneratedCodeGoKart() {}
 		{ "ModuleRelativePath", "GoKart.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AGoKart_Statics::NewProp_MovementComponent = { "MovementComponent", nullptr, (EPropertyFlags)0x00400000000a0009, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AGoKart, MovementComponent), Z_Construct_UClass_UGoKartMovementComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AGoKart_Statics::NewProp_MovementComponent_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AGoKart_Statics::NewProp_MovementComponent_MetaData)) };
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AGoKart_Statics::NewProp_MovementComponent = { "MovementComponent", nullptr, (EPropertyFlags)0x00100000000a001d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AGoKart, MovementComponent), Z_Construct_UClass_UGoKartMovementComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AGoKart_Statics::NewProp_MovementComponent_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AGoKart_Statics::NewProp_MovementComponent_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AGoKart_Statics::NewProp_MovementReplicator_MetaData[] = {
 		{ "Category", "GoKart" },
@@ -71,7 +71,7 @@ void EmptyLinkFunctionForGeneratedCodeGoKart() {}
 		{ "ModuleRelativePath", "GoKart.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AGoKart_Statics::NewProp_MovementReplicator = { "MovementReplicator", nullptr, (EPropertyFlags)0x00400000000a0009, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AGoKart, MovementReplicator), Z_Construct_UClass_UGoKartMovementReplicator_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AGoKart_Statics::NewProp_MovementReplicator_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AGoKart_Statics::NewProp_MovementReplicator_MetaData)) };
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AGoKart_Statics::NewProp_MovementReplicator = { "MovementReplicator", nullptr, (EPropertyFlags)0x00100000000a001d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AGoKart, MovementReplicator), Z_Construct_UClass_UGoKartMovementReplicator_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AGoKart_Statics::NewProp_MovementReplicator_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AGoKart_Statics::NewProp_MovementReplicator_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AGoKart_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AGoKart_Statics::NewProp_MovementComponent,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AGoKart_Statics::NewProp_MovementReplicator,
@@ -103,7 +103,7 @@ void EmptyLinkFunctionForGeneratedCodeGoKart() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AGoKart, 4107513307);
+	IMPLEMENT_CLASS(AGoKart, 1440755597);
 	template<> KRAZYKARTS_API UClass* StaticClass<AGoKart>()
 	{
 		return AGoKart::StaticClass();

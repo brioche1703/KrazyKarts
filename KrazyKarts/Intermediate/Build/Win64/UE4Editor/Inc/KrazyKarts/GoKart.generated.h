@@ -58,11 +58,7 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AGoKart)
 
 
-#define KrazyKarts_Source_KrazyKarts_GoKart_h_15_PRIVATE_PROPERTY_OFFSET \
-	FORCEINLINE static uint32 __PPO__MovementComponent() { return STRUCT_OFFSET(AGoKart, MovementComponent); } \
-	FORCEINLINE static uint32 __PPO__MovementReplicator() { return STRUCT_OFFSET(AGoKart, MovementReplicator); }
-
-
+#define KrazyKarts_Source_KrazyKarts_GoKart_h_15_PRIVATE_PROPERTY_OFFSET
 #define KrazyKarts_Source_KrazyKarts_GoKart_h_12_PROLOG
 #define KrazyKarts_Source_KrazyKarts_GoKart_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
